@@ -1,6 +1,6 @@
 # Практическая работа 1
 
-  - [Отчет по ПР 1](/practice/Otchet_PR1_Makarevich.pdf).
+  - [Отчет по ПР 1](/practice/otchet_pr1_makarevich.pdf).
 
 # Практическая работа 2
 
